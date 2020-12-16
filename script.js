@@ -7,7 +7,7 @@ function Seeifyourright () {
   const input = parseInt(document.getElementById('input').value)
   if (password === input) {
     alert('correct')
-  }  else {
+  } else {
     alert('Incorrect' + password)
   }
 }
