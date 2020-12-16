@@ -8,4 +8,7 @@ function Seeifyourright() {
   if (password == input) {
     alert ("correct");
   }
+  else {
+    alert ("Incorrect")
+  }
 }
